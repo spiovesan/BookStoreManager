@@ -1,0 +1,4 @@
+BookStoreManager
+================
+
+BookStoreManager Pluralsight course
